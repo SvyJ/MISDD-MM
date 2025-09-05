@@ -1,6 +1,6 @@
 # [Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability](https://svyj.github.io/MISDD-MM/)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.09246-df2a2a.svg?style=for-the-badge)](https://arxiv.org/abs/2509.02962)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.02962-df2a2a.svg?style=for-the-badge)](https://arxiv.org/abs/2509.02962)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/get-started/locally/)
 [![Python](https://img.shields.io/badge/python-3.11-blue?style=for-the-badge)](https://www.python.org)
 [![License](https://img.shields.io/github/license/TRI-ML/prismatic-vlms?style=for-the-badge)](LICENSE)
@@ -96,6 +96,7 @@ python test_seg.py --dataset mvtec3d --class_name bagel --missing_type both --mi
 ## Thanks
 
 Our repository is built on excellent works include  [PromptAD](https://github.com/FuNz-0/PromptAD), [CLIPAD](https://github.com/ByChelsea/CLIP-AD), and [WinCLIP](https://github.com/caoyunkang/WinClip).
+
 
 
 
