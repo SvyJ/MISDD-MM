@@ -8,6 +8,12 @@
 
 <hr style="border: 2px solid gray;"></hr>
 
+- [2025/09/05] 🌟 The source codes has been released.
+- [2025/09/03] 🌟 Our article has been uploaded to [https://arxiv.org/abs/2509.02962](arxiv).
+- [2025/09/02] 🎉 Our article is accepted by *IEEE/ASME Transactions on Mechatronics (T-Mech)*.
+
+<hr style="border: 2px solid gray;"></hr>
+
 ## Quick Installation
 
 - Run the following script in sequence or execute `bash install.sh` to quickly install the required packages
