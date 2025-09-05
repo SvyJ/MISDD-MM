@@ -77,7 +77,7 @@ python test_seg.py --dataset mvtec3d --class_name bagel --missing_type both --mi
 ## Citation
 
 ```tex
-@article{jiang2025category,
+@article{jiang2025resilient,
   title={Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability},
   author={Jiang, Shuai and Ma, Yunfeng and Zhou, Jingyu and Bian, Yuan and Wang, Yaonan and Liu, Min},
   journal={IEEE/ASME Transactions on Mechatronics},
@@ -85,7 +85,7 @@ python test_seg.py --dataset mvtec3d --class_name bagel --missing_type both --mi
   publisher={IEEE}
 }
 
-@article{jiang2025category,
+@article{jiang2025resilient,
   title={Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability},
   author={Jiang, Shuai and Ma, Yunfeng and Zhou, Jingyu and Bian, Yuan and Wang, Yaonan and Liu, Min},
   journal={arXiv preprint arXiv:2509.02962},
@@ -96,6 +96,7 @@ python test_seg.py --dataset mvtec3d --class_name bagel --missing_type both --mi
 ## Thanks
 
 Our repository is built on excellent works include  [PromptAD](https://github.com/FuNz-0/PromptAD), [CLIPAD](https://github.com/ByChelsea/CLIP-AD), and [WinCLIP](https://github.com/caoyunkang/WinClip).
+
 
 
 
