@@ -8,7 +8,7 @@
 
 <hr style="border: 2px solid gray;"></hr>
 
-- [2025/09/05] 🌟 The source codes has been released.
+- [2025/09/05] 🌟 The source codes have been released.
 - [2025/09/03] 🌟 Our article has been uploaded to [arXiv](https://arxiv.org/abs/2509.02962).
 - [2025/09/02] 🎉 Our article is accepted by *IEEE/ASME Transactions on Mechatronics (T-Mech)*.
 
@@ -96,6 +96,7 @@ python test_seg.py --dataset mvtec3d --class_name bagel --missing_type both --mi
 ## Thanks
 
 Our repository is built on excellent works include  [PromptAD](https://github.com/FuNz-0/PromptAD), [CLIPAD](https://github.com/ByChelsea/CLIP-AD), and [WinCLIP](https://github.com/caoyunkang/WinClip).
+
 
 
 
