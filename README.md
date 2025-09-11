@@ -31,7 +31,7 @@ pip install --upgrade pip
 pip install --upgrade setuptools
 export CPATH=/home/js/.conda/envs/misdd_mm/targets/x86_64-linux/include:$CPATH
 export LD_LIBRARY_PATH=/home/js/.conda/envs/misdd_mm/targets/x86_64-linux/lib:$LD_LIBRARY_PATH
-export PATH=/home/js/.conda/envs/promptad/bin:$PATH
+export PATH=/home/js/.conda/envs/misdd_mm/bin:$PATH
 pip install Pointnet2_PyTorch/pointnet2_ops_lib/.
 pip install loguru
 pip install opencv-python
