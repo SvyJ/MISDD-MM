@@ -8,6 +8,7 @@
 
 <hr style="border: 2px solid gray;"></hr>
 
+- [2025/09/21] 🌟 Our article has been published at [IEEEXplore](https://ieeexplore.ieee.org/document/11173953).
 - [2025/09/05] 🌟 The source codes have been released.
 - [2025/09/03] 🌟 Our article has been uploaded to [arXiv](https://arxiv.org/abs/2509.02962).
 - [2025/09/02] 🎉 Our article is accepted by *IEEE/ASME Transactions on Mechatronics (T-Mech)*.
